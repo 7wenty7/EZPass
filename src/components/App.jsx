@@ -472,7 +472,7 @@ const App = () => {
         </form>
       </div>
       <footer className="app-footer">
-  <p>Made by<a href="https://slimbouras.com">slimbouras.com</a>, Source Code<a href="https://github.com/your-username/your-repo">
+  <p>Made by<a href="https://slimbouras.com">slimbouras.com</a>, Source Code<a href="https://github.com/7wenty7/EZPass">
     <FaGithub />
   </a> </p>
 </footer>
