@@ -1,7 +1,7 @@
 # EZPass
 
 EZPass is a custom password generator designed to create secure and memorable passwords tailored to your personal preferences. Using your unique inputs, EZPass ensures that generated passwords are both secure and easy to remember.
-![Demo Image](https://ibb.co/thwNHdL)
+![Demo Image](https://img.onl/oVkhnt)
 
 
 ## Demo
